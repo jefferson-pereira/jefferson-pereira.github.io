@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     list-style: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
 }
 
 .resume-contents{
@@ -56,18 +56,18 @@
 }
 
 .left-title{
+    padding-top: 2rem;
     color: #eeeeee;
     font-size: 20px;
 }
 
 .contact-info ul{
-    padding-top: 1.5rem;
+    padding-top: 1rem;
 }
 
 .contact-info ul li,
 .references ul li{
-
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     color: #eeeeee;
 }
 
